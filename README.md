@@ -6,3 +6,7 @@
 ## conflicto resuelto
 
 ## navegacion lista!!
+
+## estilo eliminado
+
+## repositorio restaurado
